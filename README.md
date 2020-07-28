@@ -1,4 +1,4 @@
-# Hi, I'm Łukasz 👋 JavaScript Developer
+# Hi, I'm Łukasz 👋 
 
 ## About me 
 I'm 25 years old, economics student with passion to Web Development. <br>
