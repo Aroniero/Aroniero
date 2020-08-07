@@ -15,7 +15,7 @@ I'm 25 years old, economics student with passion to Web Development. <br>
   <a href="https://www.linkedin.com/in/%C5%82ukasz-godlewski-9077051b3/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
-  <a href="https://www.instagram.com/aron_iero_d/" target="_blank">
+  <a href="https://www.instagram.com/_aroniero/" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a> 
  
