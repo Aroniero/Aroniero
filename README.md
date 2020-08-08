@@ -25,7 +25,7 @@ I'm 25 years old, economics student with passion to Web Development. <br>
 ## Technologies 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&https://github.com/Aroniero)](https://github.com/Aroniero)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/Aroniero)](https://github.com/olafsulich/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/Aroniero)](https://github.com/Aroniero)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/Aroniero)](https://github.com/Aroniero)
 
 
@@ -33,7 +33,7 @@ I'm 25 years old, economics student with passion to Web Development. <br>
 [![Styled Components](https://img.shields.io/badge/-StyledComponents-blue?style=for-the-badge&color=black&logo=Styled-Components&logoColor=pink)](https://github.com/Aroniero)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&https://github.com/Aroniero)](https://github.com/Aroniero)
-[![Eslint](https://img.shields.io/badge/-Eslint-purple?style=for-the-badge&logo=Eslint&logoColor=white)](https://github.com/olafsulich/)
-[![Prettier](https://img.shields.io/badge/-Prettier-blue?style=for-the-badge&logo=Prettier&logoColor=white)](https://github.com/olafsulich/)
-[![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/olafsulich/)
+[![Eslint](https://img.shields.io/badge/-Eslint-purple?style=for-the-badge&logo=Eslint&logoColor=white)](https://github.com/Aroniero)
+[![Prettier](https://img.shields.io/badge/-Prettier-blue?style=for-the-badge&logo=Prettier&logoColor=white)](https://github.com/Aroniero)
+[![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/Aroniero)
 
