@@ -6,18 +6,20 @@ I'm 25 years old, economics student with passion to Web Development. <br>
 🔭 I’m currently working on improving my skills with ReactJS by doing mini-projects.
 
 ## Socials
-<p>
-  
-  <a href="https://twitter.com/_Aroniero" target="_blank">
-   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.linkedin.com/in/%C5%82ukasz-godlewski-9077051b3/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.instagram.com/_aroniero/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-  </a> 
- 
+<p align="center">
+<br/>
+<a href="https://twitter.com/_Aroniero"  >
+  <img alt="Aroniero | Twitter" width="35px" hspace="10px"  src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.linkedin.com/in/%C5%82ukasz-godlewski-9077051b3/">
+  <img alt="Aroniero's LinkdeIN" width="35px" hspace="10px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://www.instagram.com/_aroniero/">
+  <img alt="Aroniero's Instagram" width="35px" hspace="10px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+<a href="https://open.spotify.com/user/aroniero">
+  <img alt="Aroniero's Spotify" width="35px" hspace="10px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+</a>
 </p>
 
 
