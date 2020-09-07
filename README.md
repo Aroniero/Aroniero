@@ -35,10 +35,9 @@ I'm 25 years old, economics student with passion to Web Development. <br>
 
 </br>
 </br>
-</br>
-</br>
 
-[![Aroniero's github stats](https://github-readme-stats.vercel.app/api?username=Aroniero)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Aroniero's github stats](https://github-readme-stats.vercel.app/api?username=Aroniero)](https://github.com/Aroniero?tab=repositories)
 
 
 
