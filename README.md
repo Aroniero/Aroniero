@@ -5,7 +5,6 @@ I'm 25 years old, economics student with passion to Web Development. <br>
 🌱 I’m currently learning and discovering new stuff about Front-end world especially with ReactJS! <br>
 🔭 I’m currently working on improving my skills with ReactJS by doing mini-projects.
 
-
 ## Socials
 <p>
   
@@ -24,16 +23,18 @@ I'm 25 years old, economics student with passion to Web Development. <br>
 
 ## Technologies 
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&https://github.com/Aroniero)](https://github.com/Aroniero)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&link=https://github.com/Aroniero)](https://github.com/Aroniero)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&link=https://github.com/Aroniero)](https://github.com/Aroniero)
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+</br>
+</br>
+<img align="left" alt="Aroniero's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aroniero&show_icons=true&hide_border=true" />
 
 
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://github.com/Aroniero)
-[![Styled Components](https://img.shields.io/badge/-StyledComponents-blue?style=for-the-badge&color=black&logo=Styled-Components&logoColor=pink)](https://github.com/Aroniero)
-
-[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&https://github.com/Aroniero)](https://github.com/Aroniero)
-[![Eslint](https://img.shields.io/badge/-Eslint-purple?style=for-the-badge&logo=Eslint&logoColor=white)](https://github.com/Aroniero)
-[![Prettier](https://img.shields.io/badge/-Prettier-blue?style=for-the-badge&logo=Prettier&logoColor=white)](https://github.com/Aroniero)
-[![Figma](https://img.shields.io/badge/-Figma-gray?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/Aroniero)
 
