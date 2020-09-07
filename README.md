@@ -6,8 +6,7 @@ I'm 25 years old, economics student with passion to Web Development. <br>
 🔭 I’m currently working on improving my skills with ReactJS by doing mini-projects.
 
 ## Socials
-<p align="left">
-<br/>
+
 <a href="https://twitter.com/_Aroniero"  >
   <img alt="Aroniero | Twitter" width="35px" hspace="10px"  src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
@@ -20,7 +19,7 @@ I'm 25 years old, economics student with passion to Web Development. <br>
 <a href="https://open.spotify.com/user/aroniero">
   <img alt="Aroniero's Spotify" width="35px" hspace="10px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
-</p>
+
 
 
 ## Technologies 
