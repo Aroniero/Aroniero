@@ -1,4 +1,4 @@
-# Hi, I'm Łukasz 👋 
+# Hi, I'm Łukasz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
 ## About me 
 I'm 25 years old, economics student with passion to Web Development. <br>
