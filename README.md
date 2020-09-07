@@ -1,9 +1,11 @@
 # Hi, I'm Łukasz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
 
+
 ## About me 
 I'm 25 years old, economics student with passion to Web Development. <br>
 🌱 I’m currently learning and discovering new stuff about Front-end world especially with ReactJS! <br>
 🔭 I’m currently working on improving my skills with ReactJS by doing mini-projects.
+<hr>
 
 ## Socials
 
@@ -20,7 +22,7 @@ I'm 25 years old, economics student with passion to Web Development. <br>
   <img alt="Aroniero's Spotify" width="35px" hspace="10px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
 </a>
 
-
+<hr>
 
 ## Technologies 
 
@@ -36,8 +38,7 @@ I'm 25 years old, economics student with passion to Web Development. <br>
 </br>
 </br>
 
+<hr>
 
-[![Aroniero's github stats](https://github-readme-stats.vercel.app/api?username=Aroniero)](https://github.com/Aroniero?tab=repositories)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=aroniero&show_icons=true&theme=gotham"></a>
 
