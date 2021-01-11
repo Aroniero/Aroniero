@@ -2,9 +2,9 @@
 
 
 ## About me 
-I'm 25 years old, economics student with passion to Web Development. <br>
-🌱 I’m currently learning and discovering new stuff about Front-end world especially with ReactJS! <br>
-🔭 I’m currently working on improving my skills with ReactJS by doing mini-projects.
+I'm 26 years old, economics student with passion to Web Development. <br>
+🌱 I’m currently learning and discovering new stuff about Python language <br>
+🔭 I’m currently working on improving my skills with Python by doing mini-projects.
 <hr>
 
 ## Socials
