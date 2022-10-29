@@ -3,9 +3,9 @@
 
 
 <p>Welcome to my page! </br> I'm Łukasz, Accountant from <img src="https://cdn-icons-png.flaticon.com/512/4628/4628690.png" width="13"/> <b>Płock, Poland.</b></p>
-<br>
+<hr>
 🌱 I’m currently learning and discovering new stuff about Ruby language <br>
-🔭 I'm currently working on improving my Python skills by creating scripts that automate my work.
+🔭 I'm currently working on improving my Python skills by creating scripts that automate my work
 <hr>
 
 ## Socials
@@ -39,9 +39,4 @@
 </br>
 </br>
 
-<hr>
-<p align="left">
-  
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img  height="200" src="https://github-readme-stats.vercel.app/api?username=aroniero&show_icons=true"></a>
 
-</p>
