@@ -13,10 +13,10 @@ I'm 26 years old, economics student with passion to Web Development. <br>
   <img alt="Aroniero | Twitter" width="35px" hspace="10px"  src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/%C5%82ukasz-godlewski-9077051b3/">
-  <img alt="Aroniero's LinkdeIN" width="35px" hspace="10px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="Aroniero's LinkdeIN" width="35px" hspace="10px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_aroniero/">
-  <img alt="Aroniero's Instagram" width="35px" hspace="10px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="Aroniero's Instagram" width="35px" hspace="10px" src="https://www.svgrepo.com/show/111199/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/aroniero">
   <img alt="Aroniero's Spotify" width="35px" hspace="10px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
