@@ -1,16 +1,17 @@
-# Hi, I'm Łukasz <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+
+<h1>Hey! Nice to see you. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
 
-## About me 
-I'm 26 years old, economics student with passion to Web Development. <br>
-🌱 I’m currently learning and discovering new stuff about Python language <br>
-🔭 I’m currently working on improving my skills with Python by doing mini-projects.
+<p>Welcome to my page! </br> I'm Łukasz, Accountant from <img src="https://cdn-icons-png.flaticon.com/512/4628/4628690.png" width="13"/> <b>Płock, Poland.</b></p>
+<br>
+🌱 I’m currently learning and discovering new stuff about Ruby language <br>
+🔭 I'm currently working on improving my Python skills by creating scripts that automate my work.
 <hr>
 
 ## Socials
 
 <a href="https://twitter.com/_Aroniero"  >
-  <img alt="Aroniero | Twitter" width="35px" hspace="10px"  src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="Aroniero | Twitter" width="35px" hspace="10px"  src="https://www.svgrepo.com/show/355336/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/%C5%82ukasz-godlewski-9077051b3/">
   <img alt="Aroniero's LinkdeIN" width="35px" hspace="10px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
@@ -19,7 +20,7 @@ I'm 26 years old, economics student with passion to Web Development. <br>
   <img alt="Aroniero's Instagram" width="35px" hspace="10px" src="https://www.svgrepo.com/show/111199/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/aroniero">
-  <img alt="Aroniero's Spotify" width="35px" hspace="10px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  <img alt="Aroniero's Spotify" width="35px" hspace="10px" src="https://www.svgrepo.com/show/355256/spotify.svg" />
 </a>
 
 <hr>
