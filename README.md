@@ -4,7 +4,6 @@
 
 <p>Welcome to my page! </br> I'm Łukasz, Accountant from <img src="https://cdn-icons-png.flaticon.com/512/4628/4628690.png" width="13"/> <b>Płock, Poland.</b></p>
 <hr>
-🌱 I’m currently learning and discovering new stuff about Ruby language <br>
 🔭 I'm currently working on improving my Python skills by creating scripts that automate my work
 <hr>
 
